@@ -2,7 +2,7 @@
 About
 a dataset for training region prediction model in path planning field
 
-fixing the error in
+fixing the error in https://github.com/RTPWDSDM/PPD/issues/1
 
 reference
 
